@@ -1,5 +1,3 @@
-## Issue title
-
 ## Problem & Opportunity
 
 ## Context or Reproduce
